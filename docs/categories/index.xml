@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Songtan Music</title>
-    <link>./categories/</link>
+    <link>/website/categories/</link>
     <description>Recent content in Categories on Songtan Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="./categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="/website/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lifestyle</title>
-      <link>./categories/lifestyle/</link>
+      <link>/website/categories/lifestyle/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./categories/lifestyle/</guid>
+      <guid>/website/categories/lifestyle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>operations</title>
-      <link>./categories/operations/</link>
+      <link>/website/categories/operations/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./categories/operations/</guid>
+      <guid>/website/categories/operations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tour</title>
-      <link>./categories/tour/</link>
+      <link>/website/categories/tour/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./categories/tour/</guid>
+      <guid>/website/categories/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working days</title>
-      <link>./categories/working-days/</link>
+      <link>/website/categories/working-days/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./categories/working-days/</guid>
+      <guid>/website/categories/working-days/</guid>
       <description></description>
     </item>
     

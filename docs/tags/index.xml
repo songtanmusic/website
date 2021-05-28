@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Songtan Music</title>
-    <link>./tags/</link>
+    <link>/website/tags/</link>
     <description>Recent content in Tags on Songtan Music</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>day</title>
-      <link>./tags/day/</link>
+      <link>/website/tags/day/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./tags/day/</guid>
+      <guid>/website/tags/day/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fashion</title>
-      <link>./tags/fashion/</link>
+      <link>/website/tags/fashion/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./tags/fashion/</guid>
+      <guid>/website/tags/fashion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lifestyle</title>
-      <link>./tags/lifestyle/</link>
+      <link>/website/tags/lifestyle/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./tags/lifestyle/</guid>
+      <guid>/website/tags/lifestyle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tour</title>
-      <link>./tags/tour/</link>
+      <link>/website/tags/tour/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./tags/tour/</guid>
+      <guid>/website/tags/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visit</title>
-      <link>./tags/visit/</link>
+      <link>/website/tags/visit/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./tags/visit/</guid>
+      <guid>/website/tags/visit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>./tags/work/</link>
+      <link>/website/tags/work/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>./tags/work/</guid>
+      <guid>/website/tags/work/</guid>
       <description></description>
     </item>
     
